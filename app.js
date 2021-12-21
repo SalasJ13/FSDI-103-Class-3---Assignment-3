@@ -1,8 +1,8 @@
 //Crear calculadora en javascript
 //suma,restas,multiplicacion, porcentajes,
 function calculator(){
-    let n1=Number(prompt("N1:"));
-    let n2=Number(prompt("N2:"));
+    let n1=Number(prompt("Enter a number 1: "));
+    let n2=Number(prompt("Enter a number 2: "));
 
     let sum,res,mul,div;
     sum=n1+n2;
